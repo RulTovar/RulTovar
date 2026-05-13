@@ -39,7 +39,6 @@ D --> E[Dashboards e Insights]
 
 ### Data Analytics
 
-<img src="https://skillicons.dev/icons?i=python" />
 <br>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
