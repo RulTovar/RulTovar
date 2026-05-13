@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Raúl%20Tovar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Datos%20Junior%20%7C%20Desarrollador%20Web&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E5573,50:0E5573,100:0E5573&height=220&section=header&text=Raúl%20Tovar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Datos%20Junior%20%7C%20Desarrollador%20Web&descAlignY=55&descSize=18"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E5573&center=true&vCenter=true&width=700&lines=Transformando+datos+en+decisiones;Python+%7C+SQL+%7C+Tableau+%7C+ETL;Data+Analytics+%26+Business+Intelligence;Automatización+y+Visualización+de+Datos" alt="Typing SVG" />
@@ -86,13 +86,17 @@ Busco desarrollarme en áreas de:
 
 # 📫 Contacto
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raúl%20Tovar-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/raultovarv)
+<a href="https://linkedin.com/in/raultovarv">
+  <img src="https://img.shields.io/badge/LinkedIn-Raúl%20Tovar-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-📧 **[raul.tovarv@gmail.com](mailto:raul.tovarv@gmail.com)**
+<a href="mailto:raul.tovarv@gmail.com">
+  <img src="https://img.shields.io/badge/Correo-raul.tovarv%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-</div>
+</p>
 
 ---
 
