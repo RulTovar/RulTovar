@@ -1,14 +1,9 @@
-# ¡Hola! Soy Raúl Tovar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Raúl%20Tovar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Datos%20Junior%20%7C%20Desarrollador%20Web&descAlignY=55&descSize=18"/>
 
 <div align="center">
-
-### Analista de Datos Junior | Desarrollador Web
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Transformando+datos+en+decisiones;Python+%7C+SQL+%7C+Tableau+%7C+ETL;Data+Analytics+%26+Business+Intelligence;Automatización+y+Visualización+de+Datos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E5573&center=true&vCenter=true&width=700&lines=Transformando+datos+en+decisiones;Python+%7C+SQL+%7C+Tableau+%7C+ETL;Data+Analytics+%26+Business+Intelligence;Automatización+y+Visualización+de+Datos" alt="Typing SVG" />
 
 </div>
-
----
 
 ## Sobre mí
 
