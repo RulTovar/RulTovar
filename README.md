@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E5573,50:0E5573,100:0E5573&height=220&section=header&text=Raúl%20Tovar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Datos%20Junior%20%7C%20Desarrollador%20Web&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E5573,50:0E5573,100:0E5573&height=220&section=header&text=Raúl%20Tovar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Datos%20%7C%20Desarrollador%20Web&descAlignY=55&descSize=18"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E5573&center=true&vCenter=true&width=700&lines=Transformando+datos+en+decisiones;Python+%7C+SQL+%7C+Tableau+%7C+ETL;Data+Analytics+%26+Business+Intelligence;Automatización+y+Visualización+de+Datos" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ## Sobre mí
 
-Soy un **Analista de Datos Junior** con formación en ingeniería y experiencia previa como **Desarrollador Web**.
+Soy un **Analista de Datos** con formación en ingeniería en Tecnologías de la Información y Comunicación y experiencia previa como **Desarrollador Web**.
 
 Combino programación, bases de datos y análisis de datos para transformar información en soluciones útiles y accionables. Mi experiencia en desarrollo web me permite comprender el ciclo completo del dato:
 
