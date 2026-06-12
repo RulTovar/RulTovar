@@ -54,24 +54,6 @@ D --> E[Dashboards e Insights]
 
 ---
 
-# 📌 Proyectos Destacados  
-
-## ETL para Monitoreo Académico
-
-- Automatización de reportes desde archivos Excel usando **Python, Pandas y Schedule**.
-- Reducción del tiempo de procesamiento manual en un **70%**.
-- Limpieza y consolidación automática de información académica.
-
----
-
-## Módulo de Reportes para Tarificador
-
-- Desarrollo de dashboards interactivos con **Google Charts**.
-- Consultas SQL optimizadas para reportes dinámicos.
-- Reducción del tiempo de generación de informes en un **40%**.
-
----
-
 # 🎯 Objetivo Profesional
 
 Busco desarrollarme en áreas de:
@@ -81,6 +63,13 @@ Busco desarrollarme en áreas de:
 * Automatización de procesos
 * ETL y transformación de datos
 * Visualización y storytelling con datos
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=RulTovar&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RulTovar&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RulTovar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -97,6 +86,10 @@ Busco desarrollarme en áreas de:
 </a>
 
 </p>
+
+---
+
+[![](https://komarev.com/ghpvc/?username=RulTovar&icon=0)](https://visitcount.itsvg.in)
 
 ---
 
